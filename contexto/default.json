@@ -1,0 +1,8 @@
+{
+  "entidad": "default",
+  "operativo": {
+    "credenciales": { "donde": "your password manager (e.g. Bitwarden / 1Password)", "acceso": "team vault" },
+    "infra": { "donde": "your infrastructure-as-code repository" },
+    "hosts": { "donde": "your host inventory / CMDB", "acceso": "VPN + bastion" }
+  }
+}

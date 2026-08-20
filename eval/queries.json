@@ -1,0 +1,6 @@
+[
+  { "id": "Q1", "query": "how do I restore from a backup?", "target": "notes/backup-and-restore.md", "dificultad": "parafrasis" },
+  { "id": "Q2", "query": "difference between containers and virtual machines", "target": "notes/container-vs-vm.md", "dificultad": "lexico" },
+  { "id": "Q3", "query": "what should a monitoring setup cover?", "target": "notes/monitoring-basics.md", "dificultad": "parafrasis" },
+  { "id": "Q4", "query": "how to write a good incident postmortem", "target": "notes/incident-postmortem.md", "dificultad": "lexico" }
+]

@@ -1,0 +1,13 @@
+# Build output
+/gspark
+*.out
+
+# Eval reports (generated)
+report.json
+report*.json
+
+# Scratch / learning
+_lab/
+
+# OS
+.DS_Store
