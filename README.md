@@ -32,7 +32,7 @@ gspark search ejemplo-vault "difference between containers and virtual machines"
 gspark eval ejemplo-vault --engine bm25
 gspark eval ejemplo-vault --engine hybrid   # BM25 + lexical-semantic expansion
 
-# Validate that every exam target exists in the vault (guarantees a 100% ceiling)
+# Validate that every exam target exists in the vault
 gspark validate ejemplo-vault
 
 # Run as an MCP server over stdio
@@ -68,4 +68,4 @@ gspark/
 
 ## License
 
-All rights reserved (source-available) — see [LICENSE](LICENSE). Built by Ricardo Zuriel Nuño Vazquez.
+All rights reserved (source-available) — see [LICENSE](LICENSE). Built by Zuriel Vázquez.
